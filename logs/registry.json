@@ -1,0 +1,338 @@
+[
+    {
+        "fecha_hora": "2024-07-01T06:38:20.028324",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19673)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:20.029900",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 1"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:23.377066",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19674)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:23.381739",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 2"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:26.564832",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19675)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:26.566755",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 3"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:30.027291",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19676)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:30.029735",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 4"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:32.075636",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19677)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:32.077306",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 5"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:34.362069",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19678)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:34.363895",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 6"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:38.445024",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19682)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:38.446819",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:40.701476",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 1"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:41.185477",
+        "ip": "192.168.159.1",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19695)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:41.187423",
+        "ip": "192.168.159.1",
+        "accion": "registro",
+        "descripcion": "Dron registrado con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:43.708062",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 2"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:46.714171",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 3"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:50.720837",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 4"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:52.725526",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 5"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:54.730351",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 6"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:58.737891",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:39:01.744947",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:40:26.208916",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 7 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:40:47.071511",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:12.166797",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:32.343819",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:33.017743",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 7 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:53.378953",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:03.446475",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:23.833650",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:50:38.183456",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 7 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:50:46.425422",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:50:59.084218",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:07.097905",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:46.452998",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:52.578779",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 7 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:07.199830",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:13.213052",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:14.812102",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:35.509424",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:46.664334",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 3 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:51.938015",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 7 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:29:07.562713",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 3"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:29:12.573165",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:55:52.859612",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:56:12.875874",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:04.920693",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:25.002074",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:32.317409",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 7 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:53.050293",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:03.346385",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:23.402752",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:05.335926",
+        "ip": "192.168.159.1",
+        "accion": "renovacion_token_exitosa",
+        "descripcion": "Dron con alias 8 autenticado correctamente"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:25.996128",
+        "ip": "registry",
+        "accion": "token_expirado",
+        "descripcion": "Token expirado para el dron con alias 8"
+    }
+]

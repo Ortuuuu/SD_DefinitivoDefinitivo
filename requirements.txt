@@ -1,0 +1,8 @@
+kafka-python
+requests
+random
+json
+flask
+flask_socketio
+python-dotenv
+os

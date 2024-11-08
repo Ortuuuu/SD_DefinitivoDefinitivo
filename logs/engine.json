@@ -1,0 +1,647 @@
+[
+    {
+        "fecha_hora": "2024-07-01T06:38:48.681758",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19696)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:48.683122",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:38:48.692075",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:39:04.733569",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Madrid: 17.31\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:39:04.737278",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Madrid: 17.31\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:39:04.959480",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:39:12.818905",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:39:14.612066",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:40:31.459667",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19822)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:40:31.460878",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:40:31.471285",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:41:09.604804",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Madrid: 17.23\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:41:09.605902",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Madrid: 17.23\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:41:09.828655",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:41:14.300884",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:41:17.798496",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:14.842075",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19951)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:14.843532",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:14.855612",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:36.079931",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 19955)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:36.081313",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:36.092694",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:49.551704",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:49.553434",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:49.779473",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:56.688962",
+        "accion": "drone_listo",
+        "descripcion": "Drone 7 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:56.804295",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:57.687666",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:43:59.542241",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:05.293095",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 20438)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:05.294785",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:05.311827",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:16.045357",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:16.046766",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:16.168737",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:24.048357",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:48:37.571377",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:50:43.829948",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 20668)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:50:43.831690",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:50:43.844227",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:00.236939",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:00.238428",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:00.360169",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:39.396262",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 20678)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:39.398036",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:39.410202",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:48.850353",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 20680)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:48.852112",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:48.863871",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:55.146951",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 20684)"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:55.148883",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:51:55.160543",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:13.165701",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:13.167580",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:13.290236",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:20.271539",
+        "accion": "drone_listo",
+        "descripcion": "Drone 7 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:20.388094",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:21.271897",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:52:22.586833",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:20.745826",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Madrid: 17.24\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:20.747713",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Madrid: 17.24\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:20.869667",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:24.845368",
+        "accion": "drone_listo",
+        "descripcion": "Drone 7 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:25.060183",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:25.839990",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:53:26.753838",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:06.229692",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:06.231853",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 15.63\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:06.458355",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:10.149189",
+        "accion": "drone_listo",
+        "descripcion": "Drone 7 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:10.262526",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:11.151710",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T06:54:12.106337",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:18.479281",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 22182)"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:18.491907",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:18.504683",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:33.042752",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 22205)"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:33.045545",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:33.062149",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:36.735377",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 22206)"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:36.737569",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:36.749819",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:55.515333",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 22209)"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:55.517788",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:28:55.530517",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:28.557838",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Cuenca: 12.71\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:28.560112",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Cuenca: 12.71\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:28.784762",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:35.600586",
+        "accion": "drone_listo",
+        "descripcion": "Drone 7 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:35.714601",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:36.651889",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T07:32:40.584303",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:55:55.334076",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 23718)"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:55:55.336780",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:55:55.349468",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:56:06.689493",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 14.75\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:56:06.691856",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 14.75\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:56:06.815086",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:56:14.709711",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:56:16.941606",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:06.418968",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 23763)"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:06.421763",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:06.435697",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:16.501793",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 15.07\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:16.504240",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 15.07\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:16.628207",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:24.569958",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:34.561369",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 23780)"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:34.563945",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 7"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:34.577862",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:39.963810",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:47.164914",
+        "accion": "drone_listo",
+        "descripcion": "Drone 7 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T08:57:49.585638",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:06.164948",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 24022)"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:06.167899",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:06.181930",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:24.166332",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Madrid: 19.21\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:24.168994",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Madrid: 19.21\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:24.393586",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:32.219823",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:01:33.242761",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:08.068235",
+        "accion": "conexion_establecida",
+        "descripcion": "Conexion establecida con ('192.168.159.1', 24252)"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:08.071612",
+        "accion": "autenticacion_exitosa",
+        "descripcion": "Autenticacion exitosa para 8"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:08.084296",
+        "accion": "conexion_cerrada",
+        "descripcion": "Conexion cerrada"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:24.969219",
+        "accion": "obtener_temperatura",
+        "descripcion": "Temperatura obtenida para la ciudad Roma: 14.75\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:24.971991",
+        "accion": "temperatura_obtenida",
+        "descripcion": "Temperatura en Roma: 14.75\u00b0C"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:25.098613",
+        "accion": "esperando_confirmacion",
+        "descripcion": "Esperando confirmacion de drones"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:33.063159",
+        "accion": "drone_listo",
+        "descripcion": "Drone 8 esta listo"
+    },
+    {
+        "fecha_hora": "2024-07-01T09:05:34.647234",
+        "accion": "continuar_drones_listos",
+        "descripcion": "Continuando con los drones que estan listos"
+    }
+]
